@@ -1,4 +1,4 @@
-- [climb](./climb)
-- [teach](./teach)
-- [research](./research)
-- [blog](./blog)
+- [climb](climb.md)
+- [teach](teach.md)
+- [research](research.md)
+- [blog](blog.md)
