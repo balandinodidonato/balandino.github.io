@@ -1,4 +1,4 @@
-[climb](climb)
-[teach](teach)
-[research](research)
-[blog](blog)
+- [climb](climb)
+- [teach](teach)
+- [research](research)
+- [blog](blog)
